@@ -1,4 +1,4 @@
-### Hi there I Zaid a passionate Software Developer 👋
+### Hi there I'm Zaid a passionate Software Developer 👋
 
 <!--
 **Zaid-S-Dev/Zaid-S-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
